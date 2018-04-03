@@ -66,4 +66,4 @@ Deploy this API. Note that you'll need to create a remote database, run your mig
 
 Add a link to your [deployed API]() here.
 
-https://gentle-depths-11659.herokuapp.com/
+https://gentle-depths-11659.herokuapp.com/resolutions
